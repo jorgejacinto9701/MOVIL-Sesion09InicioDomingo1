@@ -15,6 +15,7 @@
         android:text="@string/txt_crud_de_editorial"
         android:textAlignment="center"
         android:textSize="18sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:id="@+id/idCrudEditorialFrmTitulo"/>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
